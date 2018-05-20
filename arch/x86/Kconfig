@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: GPL-2.0
+# Select 32 or 64 bit
+
+comment "KBUILD PROFILE"
+comment "This kbuild is forked from linux kbuild"
+comment "The original intention was to build GeOS system"
+comment "Copyright by cherisegege"
+
